@@ -48,10 +48,8 @@ Manage SLSsteam engine settings:
 
 ## Installation
 
-### Via Decky (recommended)
-1. Open Decky Loader → Store
-2. Search for **LuaTools**
-3. Install
+### Via Decky Store
+> 🚧 Coming soon
 
 ### Manual
 ```bash
