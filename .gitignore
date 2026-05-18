@@ -1,0 +1,16 @@
+node_modules/
+dist/
+data/appaccesstokens.json
+py_modules/luatools_decky/appaccesstokens.json
+py_modules/luatools_decky/appidlogs.txt
+py_modules/luatools_decky/loadedappids.txt
+py_modules/luatools_decky/temp_dl/
+py_modules/luatools_decky/games.json
+py_modules/luatools_decky/update.json
+py_modules/luatools_decky/update_pending.json
+data/ryuu_cookie.txt
+data/deps/
+__pycache__/
+*.pyc
+*.pyo
+.env

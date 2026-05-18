@@ -1,0 +1,11 @@
+{
+  "name": "LuaTools Decky",
+  "author": "StarWarsK & geovanygrdt (ported to Decky)",
+  "api_version": 1,
+  "flags": [],
+  "publish": {
+    "tags": ["utility", "games", "steam"],
+    "description": "Download game manifests, manage AppTokens/FakeAppIds/DLCs, apply game fixes, and download workshop content via ACCELA + SLSsteam integration.",
+    "image": "https://raw.githubusercontent.com/Star123451/LuaToolsLinux/main/public/luatools-icon.png"
+  }
+}

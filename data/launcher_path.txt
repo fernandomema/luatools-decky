@@ -1,0 +1,1 @@
+/home/deck/.local/share/ACCELA/ACCELA.AppImage
