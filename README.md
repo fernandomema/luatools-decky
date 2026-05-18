@@ -2,7 +2,7 @@
 
 A [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) plugin for Steam Deck that lets you download and manage games through **ACCELA** + **SLSsteam** integration — with full controller support.
 
-> Ported to Decky by **geovanygrdt**, based on the original [LuaToolsLinux](https://github.com/Star123451/LuaToolsLinux) by **StarWarsK**.
+> Ported to Decky by **fernandomema**, based on the original [LuaToolsLinux](https://github.com/Star123451/LuaToolsLinux) by **StarWarsK**.
 
 ---
 
